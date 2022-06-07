@@ -1,1 +1,5 @@
 print("Hola mundo")
+print("H")
+print("o")
+print("l")
+print("a")
