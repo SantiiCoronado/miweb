@@ -1,5 +1,5 @@
 print("Hola mundo")
 print("H")
-print("o")
+print("")
 print("l")
 print("a")
